@@ -59,7 +59,6 @@ Users working on the Student Profile have the following functionalities availabl
 - # Software Design
 
 This software was developed using
-![](flowchart.png)
 
 - Angular – Frontend
 - SpringBoot – Backend
@@ -67,3 +66,4 @@ This software was developed using
 
   
 ## Flow of Control
+![](flowchart.png)
