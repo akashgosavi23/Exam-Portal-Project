@@ -115,7 +115,7 @@ Table-quiz
 
 ## Relationships Among Table within Database
 
-![](databasetable.png)
+![](relationship_table-database.png.png)
 
 # Demonstration Images of the Software
 
@@ -173,7 +173,7 @@ Table-quiz
 
 ![](add-category.png)
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.020.png)
+![](add-category-s.png)
 
 
 ### Viewing Created Subjects
