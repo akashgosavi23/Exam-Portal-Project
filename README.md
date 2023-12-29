@@ -181,17 +181,10 @@ Table-quiz
 - How to Get Here: Click on the ‘*Subjects*’ button from the menu on the left
 
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.021.png)
+![](categorys.png)
 
 
-### Deleting a Created Subject
-- Users: Professors or anyone who has logged in with an Admin Profile
-- How to Get Here: Click on the ‘*Delete*’ button marked in red present on the right of the subject name
 
-
-![](delete.jpeg)
-
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.023.png)
 
 
 ### Adding a Quiz
