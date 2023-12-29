@@ -199,8 +199,8 @@ Table-quiz
   - ‘Publish Status’ toggle will control whether the student is able to view the quiz on their profile
 
 ![](add-quiz.jpeg)
-![](add2.jpeg)
-![](add3.jpeg)
+![](add-quiz1.jpeg)
+![](add-quiz2.jpeg)
 
 
 ### Adding Questions to a Quiz
