@@ -110,7 +110,7 @@ Table-quiz
 
 
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.014.png)
+
 
 
 ## Relationships Among Table within Database
@@ -146,7 +146,7 @@ Table-quiz
 - All entries are validated and appropriate errors will be given
 - Accounts are authenticated using JWT Authentication
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](login.png)
 
 
 ### Welcome Page of Admin-Side
@@ -159,7 +159,7 @@ Table-quiz
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Profile*’ button from the menu on the left
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.018.png)
+![](profile.png)
 
 
 ### Adding a Subject
