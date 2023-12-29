@@ -59,7 +59,7 @@ Users working on the Student Profile have the following functionalities availabl
 - # Software Design
 
 This software was developed using
-![](https://drive.google.com/file/d/1gDunpHmvFdBlHapEtw250lVXLthjp8RQ/view?usp=sharing)
+![](examportal.drawio.pdf)
 
 - Angular – Frontend
 - SpringBoot – Backend
