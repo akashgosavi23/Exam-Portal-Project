@@ -29,7 +29,7 @@ An exam portal project typically involves the development of a web-based platfor
 -  Starting a Quiz	
 -  Viewing the Result for a Quiz
 
--  
+ 
 # About the Software
 
 Exam portal is a software that provides professors a user-friendly platform to host quizzes for all of their courses while ensuring that these quizzes are answered by students in an ethical manner.
@@ -59,9 +59,11 @@ Users working on the Student Profile have the following functionalities availabl
 - # Software Design
 
 This software was developed using
+![](https://drive.google.com/file/d/1gDunpHmvFdBlHapEtw250lVXLthjp8RQ/view?usp=sharing)
 
 - Angular – Frontend
 - SpringBoot – Backend
 - MySQL – Database Management
 
-- 
+  
+## Flow of Control
