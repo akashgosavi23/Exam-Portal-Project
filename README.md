@@ -198,7 +198,7 @@ Table-quiz
   - Subject that the quiz is part of
   - ‘Publish Status’ toggle will control whether the student is able to view the quiz on their profile
 
-![](add1.jpeg)
+![](add-quiz.jpeg)
 ![](add2.jpeg)
 ![](add3.jpeg)
 
