@@ -71,23 +71,42 @@ This software was developed using
 # Database Design(MySql Workbench)
 
 Tables in Database
+
+
 ![](databasetable.png)
 
+
 Table-role
+
+
 ![](role-index.png)
 
+
 Table-user
+
 ![](user.png)
 
+
 Table-user_role
+
+
 ![](user_role.png)
 
+
 Table-category
+
+
 ![](category-index-table.png)
+
+
+Table-questions
+
+![](question-index.png)
 
 Table-quiz
 ![](quiz-index.png)
 
-Table-questions
+
+
 
 
