@@ -115,7 +115,7 @@ Table-quiz
 
 ## Relationships Among Table within Database
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.015.png)
+![](databasetable.png)
 
 # Demonstration Images of the Software
 
@@ -131,7 +131,7 @@ Table-quiz
   - Email
   - Phone Number
 - All entries are validated and appropriate errors will be given
-- Accounts are authenticated using JWT Authentication![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.016.png)
+- Accounts are authenticated using JWT Authentication![]()
 
 
 ### Login Page
