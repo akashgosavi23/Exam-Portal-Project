@@ -171,7 +171,7 @@ Table-quiz
   - Name of the subject
   - Description of the subject
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.019.png)
+![](add-category.png)
 
 ![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.020.png)
 
