@@ -18,9 +18,10 @@ An exam portal project typically involves the development of a web-based platfor
 -  Viewing Your Profile Details	
 -  Adding a category	
 -  Viewing Created category
--  Deleting a Created caegory	
+-  Deleting a Created category	
 -  Adding a Quiz	
--  Adding Questions to a Quiz	
+-  Adding Questions to a Quiz
+-  deleted Question to a Quiz
 -  Viewing Created Quizzes	
 -  Updating Quiz Information	
 -  Student Profile	
@@ -34,7 +35,7 @@ An exam portal project typically involves the development of a web-based platfor
 
 Exam portal is a software that provides professors a user-friendly platform to host quizzes for all of their courses while ensuring that these quizzes are answered by students in an ethical manner.
 
-There are 2 types of profiles that are available in Exam Dojo
+There are 2 types of profiles that are available in Exam Portal
 
 - Admin – to be used by the Professor
 - Student
@@ -122,7 +123,7 @@ Table-quiz
 ## Admin Profile
 
 ### Registration Page
-- Users: All who are not registered with Exam Dojo
+- Users: All who are not registered with Exam Portal
 - Users are required to enter a valid:
   - Username
   - Password
@@ -137,7 +138,7 @@ Table-quiz
 
 
 ### Login Page
-- Users: All who are registered with Exam Dojo
+- Users: All who are registered with Exam Portal
 - Users are required to enter a valid:
   - Username
   - Password
@@ -164,23 +165,23 @@ Table-quiz
 ![](profile.png)
 
 
-### Adding a Subject
+### Adding a Category
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: 
-  - Click on the ‘*Add Subject*’ button from the menu on the left
-  - Click on ‘*Add New Subject*’ below the created subjects within the ‘*Subjects*’ sub-menu
+  - Click on the ‘*Add Category*’ button from the menu on the left
+  - Click on ‘*Add New Category*’ below the created subjects within the ‘*category*’ sub-menu
 - What you have to enter:
-  - Name of the subject
-  - Description of the subject
+  - Name of the category
+  - Description of the category
 
 ![](add-category.png)
 
 ![](add-category-s.png)
 
 
-### Viewing Created Subjects
+### Viewing Created Category
 - Users: Professors or anyone who has logged in with an Admin Profile
-- How to Get Here: Click on the ‘*Subjects*’ button from the menu on the left
+- How to Get Here: Click on the ‘*Category*’ button from the menu on the left
 
 
 ![](categorys.png)
@@ -269,9 +270,9 @@ Table-quiz
 ## Student Profile
 
 
-### View Quizzes of a Particular Subject
+### View Quizzes of a Particular Category
 - Users: Students
-- How to Get Here: Click on the subject name button from the menu on the left. For example, if you would like to view the quizzes available in the subject, “*MAT\_3003 complex*”, click on the button, “*MAT\_3003 complex*”
+- How to Get Here: Click on the subject name button from the menu on the left. For example, if you would like to view the quizzes available in the subject, “*html*”, click on the button, “*html*”
 
 ![](us1.png)
 
