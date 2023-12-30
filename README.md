@@ -269,6 +269,36 @@ Table-quiz
 
 ## Student Profile
 
+### Registration Page
+- Users: All who are not registered with Exam Portal
+- Users are required to enter a valid:
+  - Username
+  - Password
+  - First Name
+  - Last Name
+  - Email
+  - Phone Number
+- All entries are validated and appropriate errors will be given
+- Accounts are authenticated using JWT Authentication
+- ![](register.png)
+- ![](register1.png)
+
+
+### Login Page
+- Users: All who are registered with Exam Portal
+- Users are required to enter a valid:
+  - Username
+  - Password
+  - First Name
+  - Last Name
+  - Email
+  - Phone Number
+- All entries are validated and appropriate errors will be given
+- Accounts are authenticated using JWT Authentication
+
+![](login.png)
+
+
 
 ### View Quizzes of a Particular Category
 - Users: Students
@@ -295,6 +325,9 @@ Table-quiz
 
 
 ![](us5.png)
+
+### Print result
+![](p.png)
 
 
 
