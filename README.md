@@ -228,7 +228,18 @@ Table-quiz
 ![](add-q4.png)
 
 
-##
+### Deleted question to a quiz
+- Users: Professors or anyone who has logged in with an Admin Profile
+- How to Get Here: Click on the ‘Questions’ button from the row of buttons below the name of a created quiz within the Quizzes Page
+- How to delete Your  Question:
+- After clicking on the ‘Questions’ button, click on ‘delete’ Button.
+- A confirmation pop-up will be displayed to Delete the question.
+- Click on the “*delete*” button to delete question. Else, click on the “*cancel*” button
+- ![](d1.png)
+- ![](d2.png)
+- ![](d3.png)
+  - 
+
 
 ### Viewing Created Quizzes
 - Users: Professors or anyone who has logged in with an Admin Profile
@@ -245,12 +256,14 @@ Table-quiz
 ![](u2.png)
 
 
+
+
 ### Viewing the Result for a Quiz as a Professor
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: From the “Quizzes” page, click on the “*View Result*” button below the name of the quiz you would like to see the results
 - The results will be shown student-wise in a tabular manner
 
-![](respro.jpeg)
+![](r.png)
 
 
 ## Student Profile
