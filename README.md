@@ -268,18 +268,12 @@ Table-quiz
 
 ## Student Profile
 
-### View All Quizzes
-- Users: Students
-- How to Get Here: Click on the ‘*All Quizzes*’ button from the menu on the left
-
-![](vall.jpeg)
-
 
 ### View Quizzes of a Particular Subject
 - Users: Students
 - How to Get Here: Click on the subject name button from the menu on the left. For example, if you would like to view the quizzes available in the subject, “*MAT\_3003 complex*”, click on the button, “*MAT\_3003 complex*”
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.025.png)
+![](us1.png)
 
 
 ### Starting a Quiz
@@ -288,17 +282,18 @@ Table-quiz
 - Instructions for attempting the quiz will be shown on starting the quiz
 - To start answering questions, click on the “*Start Quiz*” button from the instructions page
 
-![](s4.jpeg)
+![](us2.png)
 
 - A confirmation pop-up will be displayed to start the quiz.
 - Click on the “*Start*” button to start. Else, click on the “*No*” button
 
-![](s1.jpeg)
+![](us3.png)
+![](us4.png)
 
 - It is to be noted that the quiz will Auto Submit when the timer on the right side of the screen reaches 0
 
 
-![](s2.jpeg)
+![](us5.png)
 
 
 
