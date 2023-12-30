@@ -221,11 +221,11 @@ Table-quiz
   - Repeat this process to add further questions
 - Questions can be updated after adding by clicking on the ‘*Update*’ button within the ‘*Questions*’ *Page*
 
-![](aq1.jpeg)
-![](aq2.jpeg)
-![](aq3.jpeg)
-![](aq4.jpeg)
-![](aq5.jpeg)
+![](add-q.png)
+![](add-q1.png)
+![](add-q2.png)
+![](add-q3.png)
+![](add-q4.png)
 
 
 ##
