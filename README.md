@@ -234,14 +234,15 @@ Table-quiz
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Quizzes*’ button from the menu on the left
 
-![](viewcreate.jpeg)
+![](u3.png)
 
 
 ### Updating Quiz Information
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Update*’ button from the row of buttons below the name of a created quiz within the Quizzes Page
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.024.png)![](upda.jpeg)
+![](u1.png)
+![](u2.png)
 
 
 ### Viewing the Result for a Quiz as a Professor
