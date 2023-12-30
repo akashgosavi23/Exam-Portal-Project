@@ -131,7 +131,9 @@ Table-quiz
   - Email
   - Phone Number
 - All entries are validated and appropriate errors will be given
-- Accounts are authenticated using JWT Authentication![]()
+- Accounts are authenticated using JWT Authentication
+- ![](register.png)
+- ![](register1.png)
 
 
 ### Login Page
